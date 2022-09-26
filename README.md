@@ -1,5 +1,5 @@
 # Minimal Twitter
-Minimal Twitter is a Boost for Arc Browser that cleans up the UI with a minimal design that eliminates distractions and prioritizes reading.
+Minimal Twitter is a Boost for [Arc Browser](https://arc.net/) that cleans up the UI with a minimal design that eliminates distractions and prioritizes reading.
 
 # Installation
 - Load https://twitter.com/ in Arc
