@@ -1,0 +1,315 @@
+/* ––– Global stuff ––– */
+
+.r-13hce6t span {
+    display: none !important;
+}
+
+.r-1pl7oy7 {
+    margin-bottom: 40px !important;
+    border-radius: 10px !important;
+}
+
+.r-1m4drjs span {
+    display: none !important;
+}
+
+.r-1f1sjgu {
+    margin-bottom: 40px !important;
+}
+
+/* ––– Typography ––– */
+
+.r-b88u0q, .r-majxgm, .r-1vr29t4, .r-1vr29t4 {
+    font-weight: 400 !important;
+}
+
+.r-a023e6 {
+    font-size: 16px !important;
+}
+
+.r-rjixqe {
+    line-height: 24px !important;
+}
+
+/* ––– Remove right column ––– */
+
+.r-1hycxz .r-1ifxtd0{
+    display: none !important;
+}
+
+/* ––– Remove Messages panel ––– */
+
+.r-1jte41z {
+    display: none !important;
+}
+
+/* ––– Remove profile name ––– */
+
+.r-usiww2 .r-1fz3rvf {
+    display: none !important;
+}
+
+/* ––– Search ––– */
+
+ .r-1hycxz .r-6gpygo {
+    top: 20px !important;
+}
+
+/* ——— GIF Search ——— */
+
+.r-1pp923h .r-1h3ijdo {
+    height: 80px !important;
+}
+
+.r-1pp923h .r-ero68b {
+    margin-bottom: 0 !important;
+}
+
+/* ––– Messages search ––– */
+
+.r-xyw6el .r-ero68b {
+    background-color: rgb(248, 248, 248) !important;
+    margin-bottom: 40px !important;
+    border-radius: 10px !important;
+}
+
+.r-ero68b .r-i023vh {
+    border: 0px !important;
+    margin: 0 !important;
+    padding: 20px !important;
+}
+
+/* ––– Messages boxes ––– */
+
+.r-1sw30gj, .r-1peqgm7, .r-x572qd {
+    background-color: rgb(248, 248, 248) !important;
+    border-radius: 10px !important;
+}
+
+.r-1yzf0co {
+    padding-bottom: 20px !important;
+    padding-top: 20px !important;
+}
+
+/* ––– Profile image ––– */
+
+.r-1bimlpy {
+    background-color: rgb(231, 231, 231) !important;
+    border-radius: 10px !important;
+}
+
+/* ––– Nav icons ––– */
+
+.r-1bymd8e .r-cnnz9e {
+    width: 1.4rem !important;
+}
+
+.r-1bymd8e .r-18jsvk2 {
+    color: rgb(15, 20, 25);
+}
+.r-1bymd8e .r-lwhw9o {
+    height: 1.4rem !important;
+}
+
+/* ––– Nav ––– */
+
+.r-1bymd8e {
+    margin-top: 53px !important;
+}
+
+.r-o96wvk {
+    width: 350px !important;
+    padding-top: 100px !important;
+}
+
+/* ––– Button corner radius ––– */
+
+.r-sdzlij {
+    border-radius: 10px !important;
+}
+
+/* ––– Button hover color ––– */
+
+.r-1ydqjzz {
+    background-color: rgb(248, 248, 248) !important;
+}
+
+/* ––– Tweet clean up ––– */
+
+.r-zl2h9q {
+    margin-bottom: 20px !important;
+}
+
+.r-1s2bzr4 {
+    margin-top: 20px !important;
+}
+
+/* ––– Unread dots ––– */
+
+.r-1bymd8e .r-1m4drjs {
+    top: 6px !important;
+}
+
+.r-1bymd8e .r-kquydp {
+    right: 25px !important;
+}
+
+.r-1bymd8e .r-285fr0 {
+    min-width: 5px !important;
+}
+
+.r-1bymd8e .r-10ptun7 {
+    height: 5px !important;
+}
+
+.r-1bymd8e .r-12rgx7y {
+    width: 5px !important;
+}
+.r-1bymd8e .r-1ozsyd3 {
+    height: 5px !important;
+}
+
+.r-1bymd8e .r-1ld3bg {
+    top: 7px !important;
+}
+
+.r-1bymd8e .r-1gg5ah6 {
+    right: 25px !important;
+}
+
+/* ——— Add space above site ——— */
+
+#react-root {
+    margin-top: 158px !important;
+}
+
+
+/* ——— Remove lines ——— */
+
+.css-1dbjc4n {
+    border: none !important;
+}
+.r-1p6iasa {
+    display: none !important;
+}
+
+/* ——— Home composer ——— */
+
+.r-oyd9sg .r-ymttw5 {
+    margin-bottom: 40px !important;
+    padding: 0 !important;
+}
+
+.r-oyd9sg .r-ymttw5, .r-qklmqi .r-ymttw5 {
+    background-color: rgb(255, 255, 255) !important;
+    border: 1px solid rgb(230, 230, 230) !important;
+    border-radius: 10px !important;
+    padding: 25px !important;
+}
+
+/* ——— Composer modal ——— */
+
+.r-1potc6q .r-ymttw5 {
+    border: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+/* ——— Style video controls ———*/
+
+.r-l4nmg1 .r-m2pi6t {
+    background-color: unset !important;
+    border: 0 !important;
+    border-radius: 0 !important;
+    margin-bottom: 0 !important;
+    padding: 0 !important;
+}
+
+/* ——— Style show this thread ——— */
+
+.r-qklmqi .r-t2kpel {
+    background-color: rgb(255, 255, 255) !important;
+    border: 0 !important;
+    border-radius: 10px !important;
+    padding: 0 !important;
+}
+
+.r-sb58tz {
+    padding: 0 !important;
+    border: none !important;
+}
+
+.r-i023vh {
+    background-color: rgb(248, 248, 248) !important;
+    margin-bottom: 40px !important;
+    border-radius: 10px !important;
+    padding: 30px !important;
+}
+
+/* ––– Blue buttons ––– */
+
+.r-id7aif .r-l5o3uw, .r-qklmqi .r-19u6a5r {
+    background-color: rgb(29, 155, 240) !important;
+    border: none !important;
+    margin-bottom: 0 !important;
+    padding: 12px !important;
+}
+
+.r-id7ai .r-2yi16, .r-qklmqi .r-19u6a5r {
+    padding: 12px !important;
+}
+
+/* ——— Style show replies ———*/
+
+.r-j5o65s .r-m2pi6t {
+    background-color: rgb(255, 255, 255) !important;
+    border: 1px solid rgb(230, 230, 230) !important;
+    border-radius: 10px !important;
+    margin-bottom: 40px !important;
+    padding: 15px !important;
+}
+
+/* ——— Style link previews ——— */
+
+.r-1ssbvtb .r-19u6a5r {
+    background-color: rgb(255, 255, 255) !important;
+    border-radius: 10px !important;
+}
+
+.r-1s2bzr4 .r-4wgw6l .css-16my406 {
+    color: black !important;
+}
+
+/* ––– Tabs ––– */
+
+.r-rthrr5 .r-6b64d0 {
+    max-width: 150px !important;
+    margin: 40px 15px 0 0 !important;
+}
+
+.r-6b64d0 .r-i023vh {
+    padding: 10px !important;
+}
+
+.r-hdaws3 {
+    height: 2px !important;
+    background-color: rgb(0, 0, 0) !important;
+}
+
+/* ––– Space below Replying To in thread ––– */
+
+.r-rjfia {
+    margin-bottom: 40px !important;
+}
+
+/* ––– Tweet button on Nav ––– */
+
+.r-e7q0ms {
+    width: 35% !important;
+}
+
+/* ––– Position of twitter logo ––– */
+
+.r-o96wvk .r-4wgw6l {
+    position: fixed !important;
+    top: 20px !important;
+}
