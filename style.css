@@ -189,6 +189,7 @@
 .css-1dbjc4n {
     border: none !important;
 }
+
 .r-1p6iasa {
     display: none !important;
 }
@@ -205,6 +206,16 @@
     border: 1px solid rgb(230, 230, 230) !important;
     border-radius: 10px !important;
     padding: 25px !important;
+}
+
+/* ——— Remove border from @ menu items ——— */
+
+.r-h3f8nf .r-1f1sjgu {
+    border: none !important;
+}
+
+.r-h3f8nf .r-x572qd{
+    background-color: rgb(255, 255, 255) !important;
 }
 
 /* ——— Composer modal ——— */
