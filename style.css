@@ -225,16 +225,6 @@
     margin-bottom: 0 !important;
 }
 
-/* ——— Style video controls ———*/
-
-.r-l4nmg1 .r-m2pi6t {
-    background-color: unset !important;
-    border: 0 !important;
-    border-radius: 0 !important;
-    margin-bottom: 0 !important;
-    padding: 0 !important;
-}
-
 /* ——— Style show this thread ——— */
 
 .r-qklmqi .r-t2kpel {
@@ -286,6 +276,16 @@
     padding: 15px !important;
 }
 
+/* ——— Style video controls ———*/
+
+.r-l4nmg1 .r-m2pi6t {
+    background-color: unset !important;
+    border: 0 !important;
+    border-radius: 0 !important;
+    margin-bottom: 0 !important;
+    padding: 0 !important;
+}
+
 /* ——— Style link previews ——— */
 
 .r-1ssbvtb .r-19u6a5r {
@@ -331,4 +331,3 @@
     position: fixed !important;
     top: 20px !important;
 }
-
