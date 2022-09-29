@@ -341,3 +341,9 @@
 .r-18jm5s1 {
     transform: translate3d(0px, 0px, 0px) translateY(175px) !important;
 }
+
+/* ––– Image border radius ––– */
+
+.r-1867qdf {
+    border-radius: 10px !important;
+}
