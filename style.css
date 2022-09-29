@@ -335,3 +335,9 @@
     position: fixed !important;
     top: 20px !important;
 }
+
+/* ––– Position of floating See new Tweets button ––– */
+
+.r-18jm5s1 {
+    transform: translate3d(0px, 0px, 0px) translateY(175px) !important;
+}
