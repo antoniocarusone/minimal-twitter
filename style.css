@@ -17,6 +17,10 @@
     margin-bottom: 40px !important;
 }
 
+.r-1panhkp {
+    border-radius: 10px !important;
+}
+
 /* ––– Typography ––– */
 
 .r-b88u0q, .r-majxgm, .r-1vr29t4, .r-1vr29t4 {
@@ -270,7 +274,17 @@
     padding: 12px !important;
 }
 
-/* ——— Style show replies ———*/
+/* ——— Promote button ——— */
+
+.r-5kkj8d .r-c8eef1 {
+    background-color: rgb(0, 0, 0) !important;
+    border: none !important;
+    margin-bottom: 0 !important;
+    padding: 12px !important;
+}
+
+
+/* ——— Style show replies ——— */
 
 .r-j5o65s .r-m2pi6t {
     background-color: rgb(255, 255, 255) !important;
@@ -347,3 +361,4 @@
 .r-1867qdf {
     border-radius: 10px !important;
 }
+
